@@ -1,0 +1,14 @@
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/bin/Debug/net8.0/ExercicioAplicarRegraDeNegocio
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/bin/Debug/net8.0/ExercicioAplicarRegraDeNegocio.deps.json
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/bin/Debug/net8.0/ExercicioAplicarRegraDeNegocio.runtimeconfig.json
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/bin/Debug/net8.0/ExercicioAplicarRegraDeNegocio.dll
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/bin/Debug/net8.0/ExercicioAplicarRegraDeNegocio.pdb
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/obj/Debug/net8.0/ExercicioAplicarRegraDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/obj/Debug/net8.0/ExercicioAplicarRegraDeNegocio.AssemblyInfoInputs.cache
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/obj/Debug/net8.0/ExercicioAplicarRegraDeNegocio.AssemblyInfo.cs
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/obj/Debug/net8.0/ExercicioAplicarRegraDeNegocio.csproj.CoreCompileInputs.cache
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/obj/Debug/net8.0/ExercicioAplicarRegraDeNegocio.dll
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/obj/Debug/net8.0/refint/ExercicioAplicarRegraDeNegocio.dll
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/obj/Debug/net8.0/ExercicioAplicarRegraDeNegocio.pdb
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/obj/Debug/net8.0/ExercicioAplicarRegraDeNegocio.genruntimeconfig.cache
+/home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/obj/Debug/net8.0/ref/ExercicioAplicarRegraDeNegocio.dll
