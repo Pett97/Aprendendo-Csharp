@@ -12,3 +12,18 @@
 /home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/obj/Debug/net8.0/ExercicioAplicarRegraDeNegocio.pdb
 /home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/obj/Debug/net8.0/ExercicioAplicarRegraDeNegocio.genruntimeconfig.cache
 /home/peterson/Estudos/aprendo c#/CsharpProjects/ExercicioAplicarRegraDeNegocio/obj/Debug/net8.0/ref/ExercicioAplicarRegraDeNegocio.dll
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\bin\Debug\net8.0\ExercicioAplicarRegraDeNegocio.exe
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\bin\Debug\net8.0\ExercicioAplicarRegraDeNegocio.deps.json
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\bin\Debug\net8.0\ExercicioAplicarRegraDeNegocio.runtimeconfig.json
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\bin\Debug\net8.0\ExercicioAplicarRegraDeNegocio.dll
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\bin\Debug\net8.0\ExercicioAplicarRegraDeNegocio.pdb
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\obj\Debug\net8.0\ExercicioAplicarRegraDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\obj\Debug\net8.0\ExercicioAplicarRegraDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\obj\Debug\net8.0\ExercicioAplicarRegraDeNegocio.AssemblyInfo.cs
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\obj\Debug\net8.0\ExercicioAplicarRegraDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\obj\Debug\net8.0\ExercicioAplicarRegraDeNegocio.sourcelink.json
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\obj\Debug\net8.0\ExercicioAplicarRegraDeNegocio.dll
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\obj\Debug\net8.0\refint\ExercicioAplicarRegraDeNegocio.dll
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\obj\Debug\net8.0\ExercicioAplicarRegraDeNegocio.pdb
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\obj\Debug\net8.0\ExercicioAplicarRegraDeNegocio.genruntimeconfig.cache
+C:\Users\Pett\Estudos\CSHARP\Aprendendo-Csharp\obj\Debug\net8.0\ref\ExercicioAplicarRegraDeNegocio.dll
